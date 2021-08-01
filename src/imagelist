@@ -1,0 +1,53 @@
+biker images/bikerFaceForward.bmp 255 255 255 0
+biker images/bikerFaceBack.bmp
+biker images/bikerFaceLeft.bmp
+biker images/bikerFaceRight.bmp
+fallenDebiked images/De-BikedBikerDown1.bmp 255 255 255 128
+fallenDebiked images/De-BikedBikerDown2.bmp 255 255 255 128
+debiked images/De-BikedBikerFaceForward.bmp 255 255 255 128
+debiked images/De-BikedBikerRunForward.bmp 255 255 255 128
+debiked images/De-BikedBikerFaceBack.bmp 255 255 255 128
+debiked images/De-BikedBikerRunBack.bmp 255 255 255 128
+debiked images/De-BikedBikerFaceLeft.bmp 255 255 255 128
+debiked images/De-BikedBikerRunLeft1.bmp 255 255 255 128
+debiked images/De-BikedBikerRunLeft2.bmp 255 255 255 128
+debiked images/De-BikedBikerFaceRight.bmp 255 255 255 128
+debiked images/De-BikedBikerRunRight1.bmp 255 255 255 128
+debiked images/De-BikedBikerRunRight2.bmp 255 255 255 128
+building images/Building1.bmp 255 255 255 0
+musty images/MustyFaceForward.bmp 255 255 255 0
+musty images/MustyRunForward.bmp 255 255 255 0
+musty images/MustyFaceBack.bmp 255 255 255 0
+musty images/MustyRunBack.bmp 255 255 255 0
+musty images/MustyFaceLeft.bmp 255 255 255 0
+musty images/MustyRunLeft1.bmp 255 255 255 0
+musty images/MustyRunLeft2.bmp 255 255 255 0
+musty images/MustyFaceRight.bmp 255 255 255 0
+musty images/MustyRunRight1.bmp 255 255 255 0
+musty images/MustyRunRight2.bmp 255 255 255 0
+fallenMusty images/MustyDown1.bmp 255 255 255 0
+fallenMusty images/MustyDown2.bmp 255 255 255 0
+obstacle images/Obstacle.bmp
+fStud images/RandFemStudentFaceForward.bmp 255 255 255 0
+fStud images/RandFemStudentFaceBack.bmp 255 255 255 0
+fStud images/RandFemStudentFaceLeft.bmp 255 255 255 0
+fStud images/RandFemStudentRunLeft1.bmp 255 255 255 0
+fStud images/RandFemStudentRunLeft2.bmp 255 255 255 0
+fStud images/RandFemStudentFaceRight.bmp 255 255 255 0
+fStud images/RandFemStudentRunRight1.bmp 255 255 255 0
+fStud images/RandFemStudentRunRight2.bmp 255 255 255 0
+fallenFStud images/RandFemStudentDown1.bmp 255 255 255 0
+fallenFStud images/RandFemStudentDown2.bmp 255 255 255 0
+mStud images/RandMStudentFaceForward.bmp 255 255 255 0
+mStud images/RandMStudentFaceBack.bmp 255 255 255 0
+mStud images/RandMStudentFaceLeft.bmp 255 255 255 0
+mStud images/RandMStudentRunLeft1.bmp 255 255 255 0
+mStud images/RandMStudentRunLeft2.bmp 255 255 255 0
+mStud images/RandMStudentFaceRight.bmp 255 255 255 0
+mStud images/RandMStudentRunRight1.bmp 255 255 255 0
+mStud images/RandMStudentRunRight2.bmp 255 255 255 0
+fallenMStud images/RandMStudentDown1.bmp 255 255 255 0
+fallenMStud images/RandMStudentDown2.bmp 255 255 255 0
+projectile images/Waitlist.bmp 255 255 255 0
+background images/Background.bmp
+background_default images/Background.bmp
